@@ -1,2 +1,2 @@
-# aessence
-Webflow Aessence Interactions
+# Aessence
+Aessence Interactions Library (https://aessence.webflow.io)

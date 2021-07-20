@@ -3,6 +3,9 @@ Aessence Interactions Library (https://aessence.webflow.io)
 
 # ae-dots.js
 
+Example
+https://aessence.webflow.io/dots
+
 Dependables
 ```sh
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
